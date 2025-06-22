@@ -59,7 +59,7 @@ This dashboard offers a real-time overview of inventory performance and predicts
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Snapshot](Screenshot.png)
+![Dashboard Snapshot](Screenshot.PNG)
 
 ---
 
